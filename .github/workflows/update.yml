@@ -13,8 +13,8 @@ jobs:
     - name: Check out repository
       uses: actions/checkout@v2
       
-    - name: Update WakaTime Stats
-      uses: anmol098/waka-readme-stats@v2.20.1
+    - name: Profile Readme Development Stats
+      uses: anmol098/waka-readme-stats@v4
       with:
         WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
     
