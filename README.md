@@ -1,1 +1,3 @@
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
+## My WakaTime Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
