@@ -1,12 +1,12 @@
 ## My WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-144%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-145%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 796.5 kB Used in GitHub's Storage 
+> 📦 793.0 kB Used in GitHub's Storage 
  > 
 > 🏆 322 Contributions in the Year 2024
  > 
@@ -45,5 +45,5 @@ Windows                  14 hrs 12 mins      ███████████�
 ```
 
 
- Last Updated on 17/11/2024 20:15:15 UTC
+ Last Updated on 17/11/2024 21:12:48 UTC
 <!--END_SECTION:waka-->
