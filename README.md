@@ -1,6 +1,6 @@
 ## My WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-169%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-166%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -44,5 +44,5 @@ WSL                      7 hrs 1 min         █████████░░�
 ```
 
 
- Last Updated on 26/11/2024 07:15:01 UTC
+ Last Updated on 26/11/2024 08:20:17 UTC
 <!--END_SECTION:waka-->
