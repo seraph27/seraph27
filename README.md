@@ -1,6 +1,6 @@
 ## My WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-172%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-172%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -42,5 +42,5 @@ Windows                  3 hrs 43 mins       █████████░░�
 ```
 
 
- Last Updated on 29/11/2024 22:13:59 UTC
+ Last Updated on 29/11/2024 23:14:19 UTC
 <!--END_SECTION:waka-->
