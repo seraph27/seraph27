@@ -8,8 +8,6 @@
 
 > 📦 802.8 kB Used in GitHub's Storage 
  > 
-> 🏆 330 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 21 Public Repositories 
@@ -44,5 +42,5 @@ WSL                      4 hrs 55 mins       ███████░░░░�
 ```
 
 
- Last Updated on 06/12/2024 15:16:11 UTC
+ Last Updated on 06/12/2024 16:19:14 UTC
 <!--END_SECTION:waka-->
