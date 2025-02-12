@@ -8,8 +8,6 @@
 
 > 📦 809.7 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 21 Public Repositories 
@@ -22,7 +20,7 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Lua                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
 No Activity Tracked This Week
@@ -35,5 +33,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 11/02/2025 00:51:15 UTC
+ Last Updated on 12/02/2025 00:51:33 UTC
 <!--END_SECTION:waka-->
