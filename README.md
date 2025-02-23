@@ -1,14 +1,12 @@
 ## My WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-205%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-205%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 809.7 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -35,5 +33,5 @@ Windows                  1 hr 8 mins         ███████████�
 ```
 
 
- Last Updated on 22/02/2025 00:49:56 UTC
+ Last Updated on 23/02/2025 00:55:49 UTC
 <!--END_SECTION:waka-->
