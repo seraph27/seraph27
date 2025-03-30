@@ -1,14 +1,12 @@
 ## My WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-211%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-213%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 809.7 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -22,18 +20,18 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-C++                      1 hr 37 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   1 hr 37 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-competitve-programming   1 hr 37 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 37 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 29/03/2025 00:54:29 UTC
+ Last Updated on 30/03/2025 00:59:39 UTC
 <!--END_SECTION:waka-->
