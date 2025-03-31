@@ -8,6 +8,8 @@
 
 > 📦 809.7 kB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 21 Public Repositories 
@@ -20,18 +22,18 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      2 hrs 33 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   2 hrs 33 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+competitve-programming   2 hrs 33 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 30/03/2025 00:59:39 UTC
+ Last Updated on 31/03/2025 00:58:36 UTC
 <!--END_SECTION:waka-->
