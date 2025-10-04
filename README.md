@@ -1,15 +1,12 @@
 ## My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seraph27&theme=rose_pine&hide=rank,issues,contribs&rank_icon=percentile)
-
-## My WakaTime Stats
-
-![Code Time](http://img.shields.io/badge/Code%20Time-457%20hrs%2049%20mins-blue)
+<p align="center">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=seraph27&show_icons=true&count_private=true&include_all_commits=true&theme=rose_pine&hide=issues,contribs&rank_icon=percentile" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/wakatime?username=seraph27&layout=compact&langs_count=8&theme=rose_pine" />
+</p>
 
 ![Isocalendar](metrics_isocalendar.svg)
 
 ![My GitHub Metrics](metrics_main.svg)
-
-![WakaTime](metrics_wakatime.svg)
 
 ![My Anime Stats](metrics_fun.svg)
