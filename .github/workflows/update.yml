@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: isocalendar
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: seraph27
@@ -27,7 +27,7 @@ jobs:
           filename: metrics_isocalendar.svg
 
       - name: metrics
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: seraph27
@@ -35,10 +35,10 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: America/Los_Angeles
           plugin_languages: yes
-          plugin_languages_sections: most-used, recently-used
+          plugin_languages_sections: most-used
           plugin_languages_indepth: yes
           plugin_languages_details: lines, percentage
-          plugin_languages_recent_load: 500
+          plugin_languages_recent_load: 300
           plugin_languages_limit: 12
           plugin_languages_ignored: html, css
           plugin_languages_threshold: 2%
@@ -47,7 +47,7 @@ jobs:
           filename: metrics_main.svg
 
       - name: anime
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: seraph27
