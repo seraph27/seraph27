@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-pink-two-75.vercel.app/api?username=seraph27&show_icons=true&theme=dracula&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-pink-two-75.vercel.app/api?username=seraph27&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-pink-two-75.vercel.app/api/top-langs?username=seraph27&theme=dracula&hide_border=true&layout=compact&langs_count=8&hide=html,css" />
 </p>
 
