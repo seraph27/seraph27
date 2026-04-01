@@ -1,10 +1,22 @@
 <p align="center">
+  &lt;3 systems &amp; infra, c++, building AI for healthcare @ lunabill
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=seraph27&color=bd93f9&style=for-the-badge&label=views" />
   <a href="https://wakatime.com/@seraph27"><img src="https://wakatime.com/badge/user/24c5f6ff-a943-49bf-bb8b-b13c443f63ca.svg?style=for-the-badge" /></a>
 </p>
 
 <p align="center">
-  <img height="160px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=seraph27&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&rank_icon=github" />
+  <img width="70%" src="metrics_main.svg" />
+</p>
+
+<p align="center">
+  <img width="70%" src="metrics_isocalendar.svg" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=seraph27&theme=dracula&hide_border=true" />
 </p>
 
 <p align="center">
