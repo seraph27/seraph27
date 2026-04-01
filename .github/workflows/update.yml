@@ -12,20 +12,6 @@ jobs:
   main:
     runs-on: ubuntu-latest
     steps:
-      - name: isocalendar
-        uses: lowlighter/metrics@v3.34
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: seraph27
-          template: classic
-          base: ""
-          config_timezone: America/Los_Angeles
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-          output_action: commit
-          committer_branch: main
-          filename: metrics_isocalendar.svg
-
       - name: metrics
         uses: lowlighter/metrics@v3.34
         with:
@@ -36,9 +22,8 @@ jobs:
           config_timezone: America/Los_Angeles
           plugin_languages: yes
           plugin_languages_sections: most-used
-          plugin_languages_indepth: yes
           plugin_languages_details: lines, percentage
-          plugin_languages_recent_load: 300
+          plugin_languages_recent_load: 100
           plugin_languages_limit: 12
           plugin_languages_ignored: html, css
           plugin_languages_threshold: 2%
