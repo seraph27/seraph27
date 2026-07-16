@@ -5,7 +5,6 @@
 <p align="center">
   <a href="https://seraph.tw"><img src="https://img.shields.io/badge/portfolio-seraph.tw-BD93F9?style=for-the-badge&logo=astro&logoColor=white&labelColor=282A36" /></a>
   <a href="https://codeforces.com/profile/shiinamashiro_"><img src="https://img.shields.io/badge/codeforces-shiinamashiro__-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=282A36" /></a>
-  <a href="https://leetcode.com/u/mod998244353/"><img src="https://img.shields.io/badge/leetcode-mod998244353-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=282A36" /></a>
   <a href="https://wakatime.com/@seraph27"><img src="https://wakatime.com/badge/user/24c5f6ff-a943-49bf-bb8b-b13c443f63ca.svg?style=for-the-badge&labelColor=282A36&color=50FA7B" /></a>
   <img src="https://komarev.com/ghpvc/?username=seraph27&style=for-the-badge&color=bd93f9&label=views&labelColor=282A36" />
 </p>
